@@ -1,6 +1,7 @@
 import sys
 import os
 from download_video import download_video
+from download_video import generate_srt
 from translate_srt import translate_srt_file
 from video_to_images import video_to_images
 from convert_png_to_pdf import convert_png_to_pdf
